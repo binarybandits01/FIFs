@@ -1,4 +1,6 @@
 {
     "pitch" : "green",
-    "predicted_stadium_score":"278" 
+    "predicted_stadium_score":"278",
+    "team1" : "IND",
+    "team2" : "PAK"
 }
