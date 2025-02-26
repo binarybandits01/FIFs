@@ -1,4 +1,15 @@
 Player Type,Player Name,Team
+WK,Jos Buttler,ENG
+WK,Philip Salt,ENG
+WK,Jamie Smith,ENG
+ALL,Joe Root,ENG
+BOWL,Jofra Archer,ENG
+ALL,Liam Livingstone,ENG
+BOWL,Mark Wood,ENG
+BOWL,Adil Rashid,ENG
+BAT,Ben Duckett,ENG
+ALL,Jamie Overton,ENG
+BAT,Harry Brook,ENG
 ALL,Azmatullah Omarzai,AFG
 BOWL,Fazalhaq Farooqi,AFG
 ALL,Gulbadin Naib,AFG
@@ -8,16 +19,5 @@ ALL,Mohammad Nabi,AFG
 BOWL,Noor Ahmad,AFG
 WK,Rahmanullah Gurbaz,AFG
 BAT,Rahmat Shah,AFG
-BOWL,Rashid-Khan,AFG
+BOWL,Rashid Khan,AFG
 BAT,Sediqullah Atal,AFG
-BOWL,Adam Zampa,AUS
-WK,Alex Carey,AUS
-BOWL,Ben Dwarshuis,AUS
-ALL,Glenn Maxwell,AUS
-WK,Josh Inglis,AUS
-BAT,Marnus Labuschagne,AUS
-ALL,Matthew Short,AUS
-BOWL,Nathan Ellis,AUS
-BOWL,Spencer Johnson,AUS
-BAT,Steven Smith,AUS
-BAT,Travis Head,AUS
